@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Gentle Chat
 
-You can use the [editor on GitHub](https://github.com/wng2641/jjickjjicks.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can make your own private chat using Gentle Chat & Googld Firebase Database.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
